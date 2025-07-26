@@ -1,0 +1,21 @@
+{
+  "pharmaceutical_companies": [
+    "Pfizer", "Novartis", "Roche", "Johnson & Johnson", "Merck", "GlaxoSmithKline",
+    "Sanofi", "AbbVie", "Bristol Myers Squibb", "AstraZeneca", "Eli Lilly",
+    "Boehringer Ingelheim", "Takeda", "Bayer", "Gilead Sciences", "Regeneron",
+    "Sun Pharmaceutical", "Lupin", "Dr. Reddy's", "Cipla", "Aurobindo Pharma"
+  ],
+  "biotech_companies": [
+    "Genentech", "Amgen", "Biogen", "Moderna", "Vertex Pharmaceuticals",
+    "Illumina", "Celgene", "Alexion", "BioMarin", "Incyte", "Seagen",
+    "Alnylam Pharmaceuticals", "Biocon", "Gland Pharma", "Bharat Biotech"
+  ],
+  "company_keywords": [
+    "Pharmaceuticals", "Pharma", "Biotech", "Biotechnology", "Inc.", "Ltd.",
+    "Corp.", "Corporation", "Company", "Co.", "AG", "GmbH", "SA", "plc"
+  ],
+  "academic_keywords": [
+    "University", "College", "Institute", "Hospital", "Medical Center",
+    "Research Center", "Laboratory", "School of", "Department of", "Faculty"
+  ]
+}
